@@ -7,7 +7,7 @@ This repository contains work related to the Android restrictions bypass. It is 
   * [Internal framework access](https://developer.android.com/distribute/best-practices/develop/restrictions-non-sdk-interfaces)
 
 <p align="center" >   
-<img width="30%" src=".github/overview.png"/><br />
+<img width="60%" src=".github/overview.png"/><br />
 </p>
 
 ----
